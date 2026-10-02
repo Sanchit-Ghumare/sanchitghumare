@@ -182,7 +182,6 @@ open_to:
   <a href="mailto:sanchitghumare246@gmail.com">Gmail</a> •
   <a href="https://www.linkedin.com/in/sanchitghumare/">LinkedIn</a> •
   <a href="https://github.com/sanchitghumare">GitHub</a> •
-  <a href="https://leetcode.com/u/hb29G077yR/">LeetCode</a>
 </p>
 
 ---
